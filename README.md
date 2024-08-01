@@ -5,6 +5,7 @@ Lo distintivo es que la presentación de la vista se realiza en formato hexagona
 
 
 ##Previsualización del Proyecto
+
 ![image](https://github.com/user-attachments/assets/78c9ca40-56be-4cdb-96b5-45884c60b477)
 
 ## Tecnologías Utilizadas
