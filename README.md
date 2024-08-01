@@ -1,6 +1,6 @@
-## Esta galería de imágenes permite a los usuarios ver una serie de imágenes de forma fácil y rápida. 
-## Esta aplicación proporciona una vista en formato hexagonal de las imágenes y al pasar sobre las mismas se sombrean.
-
+## Proyecto Galeria de Mis Imagenes
+# Tiene la finalidad de poder compartir con otras personas una serie de imágenes de forma fácil y rápida. 
+# Lo distintivo es que la presentación de la vista se realiza en formato hexagonal y al pasar sobre las mismas se sombrean.
 
 ## Tecnologías Utilizadas
 - HTML
